@@ -9,5 +9,5 @@ jon0623/jon0623 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-@OSSDAO-ORG•AIRDROP-0x41E285A79abBeF6B6962163FC81e984409C95929
-
+@OSSDAO-ORG•AIRDROP-
+0x41E7490cEc79D9aA3E504a50A9462F65e5bcFAf7
